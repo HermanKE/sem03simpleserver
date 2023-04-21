@@ -1,2 +1,6 @@
+github.com/HermanKE/funtemps v0.0.0-20230324100830-688985659c92 h1:k53nEucaKW63o2tDUMsz9c0Fyxh4KoUSEEOY2v0hBLc=
+github.com/HermanKE/funtemps v0.0.0-20230324100830-688985659c92/go.mod h1:FVhPUS3SBvkUffgKDTacwoll/97YL6sIm8Vv9Hi1HyI=
 github.com/HermanKE/is105sem03 v0.0.0-20230419115512-a42a85c3b9c3 h1:jyOYLZNh3842cmT38xbjMa5BAZ25F56+mejaO/d1f80=
 github.com/HermanKE/is105sem03 v0.0.0-20230419115512-a42a85c3b9c3/go.mod h1:dQKrY/YyY64VR0OiTGyJ/raQUmEszihIKEFRoYI5cEU=
+github.com/HermanKE/minyr v0.0.0-20230414084348-d155fadcb4e0 h1:hUyLHk/zV0x5X6Te+YI7KOhmXdj0bGG+zPEkw8g5OUw=
+github.com/HermanKE/minyr v0.0.0-20230414084348-d155fadcb4e0/go.mod h1:3eqbHCyH8id+uJaMV0md2RjFjoa8KHTAfDQBvduH0fY=
